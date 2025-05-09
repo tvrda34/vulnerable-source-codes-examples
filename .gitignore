@@ -1,0 +1,9 @@
+**/*.txt
+
+**/*.sarif
+
+.dccache
+
+.scannerwork
+
+my-python-db
